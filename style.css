@@ -4,7 +4,7 @@ html,body{
     margin: 0;
 }
 .date{
-    font-size: 100px;;
+    font-size: 7vw;;
     color: #F8F4F8;
 }
 .main{
@@ -23,8 +23,8 @@ html,body{
 }
 .for-type{
     
-    height: 100px;
-    width: 10px;
+    height: 7vw;
+    width: 0.7vw;
 }
 .type{
     background-color: #202020;
