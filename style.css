@@ -28,14 +28,14 @@ html,body{
 }
 .type{
     background-color: #202020;
-    margin:0px 10px;
+    margin:0px 0.7vw;
 }
 .break {
     flex-basis: 100%;
     height: 0;
   }
 .main-line{
-    height: 128px;
+    height: 9vw;
 }
 .sub-line{
     color: #aaaaaa00;
