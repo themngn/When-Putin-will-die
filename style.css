@@ -4,7 +4,7 @@ html,body{
     margin: 0;
 }
 .date{
-    font-size: 7vw;;
+    font-size: 7vw;
     color: #F8F4F8;
 }
 .main{
@@ -28,7 +28,7 @@ html,body{
 }
 .type{
     background-color: #202020;
-    margin:0px 0.7vw;
+    margin: 0px 0.7vw;
 }
 .break {
     flex-basis: 100%;
