@@ -1,1 +1,1 @@
-https://maxduh.github.io/When-Putin-will-die/
+https://themngn.github.io/When-Putin-will-die/
